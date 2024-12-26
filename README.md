@@ -1,72 +1,47 @@
-# WordPress Development Resources
-A collection of advanced WordPress development resources, focusing on Elementor and JetEngine solutions. Created and maintained by [Stefan Radu](https://github.com/stefanradu9).
+# Custom CSS Indicator for Elementor Navigator
 
-## 🎯 Available Resources
-### Elementor Enhancements
-1. [Custom CSS Indicator for Elementor Navigator](./elementor/custom-css-indicator/)
-   - Visual indicator for elements with custom CSS
-   - Makes custom CSS management easier
-   - [Read Full Article](https://www.wordpresstoday.agency/2024/12/22/add-custom-css-indicator-to-elementor-navigator-elements/)
+A visual enhancement that adds a blue dot indicator in the Elementor navigator panel for elements that have custom CSS applied.
 
-### JetEngine Solutions
-1. [JetEngine Dynamic Visibility Copy/Paste](./jetengine/dynamic-visibility-copy-paste/)
-   - Copy/paste visibility conditions between elements
-   - Supports all Elementor element types
-   - Keyboard shortcuts included
-   - [Read Full Article](https://www.wordpresstoday.agency/2024/12/06/how-to-copy-paste-jetengines-dynamic-visibility-conditions-using-elementor-jetengine-and-a-simple-code-snippet/)
+## The Problem
+When working with Elementor, finding elements with custom CSS can be challenging, especially in complex projects or when taking over someone else's work.
 
-## 📁 Repository Structure
-```
-/
-├── elementor/
-│   └── custom-css-indicator/
-│       ├── README.md
-│       └── snippet.php
-├── jetengine/
-│   └── dynamic-visibility-copy-paste/
-│       ├── README.md
-│       └── snippet.php
-├── assets/
-│   └── images/
-├── LICENSE
-└── README.md
-```
+## The Solution
+This snippet adds:
+- Visual indicator (blue dot) for elements with custom CSS
+- Real-time updates when adding/removing CSS
+- Works with all Elementor element types
 
-## 💻 Installation Instructions
-Each solution includes its own installation instructions in its respective directory. Generally:
-1. Choose the solution you want to implement
-2. Navigate to its directory
-3. Follow the README instructions
-4. Use the provided code snippet as directed
+## Features
+- ✨ Visual indicator for elements with custom CSS
+- 🔄 Real-time updates when adding/removing CSS
+- 🎨 Works with all Elementor element types:
+  - Widgets
+  - Sections
+  - Columns
+  - Containers
+- 🚀 Zero frontend impact
+- 💻 Easy installation
 
-## 🔧 Compatibility
-All solutions are tested with recent versions of:
-- WordPress 6.x
-- Elementor Free & Pro
-- JetEngine (where applicable)
+## Installation
+1. Install any code snippets plugin
+2. Add the snippet code
+3. Save and activate
+4. Blue dots will appear next to elements with custom CSS
 
-See individual solution documentation for specific version compatibility.
+## Compatibility
+- ✅ Elementor Free 3.25.11, 3.26.3
+- ✅ Elementor Pro 3.25.4, 3.26.2
 
-## 👨‍💻 About the Author
-Stefan Radu is a Top Rated Plus WordPress Developer on Upwork, specializing in:
-- Dynamic WordPress Development
-- Elementor & JetEngine Solutions
-- Custom WordPress Solutions
-- Performance Optimization
+## Resources
+- 📝 [Full Tutorial](https://www.wordpresstoday.agency/2024/12/22/add-custom-css-indicator-to-elementor-navigator-elements/)
+- 🛠️ [Report Issues](https://github.com/stefanradu9/wordpress-resources/issues)
+- 💼 [Author's Portfolio](https://github.com/stefanradu9)
 
-### Connect & Learn More
-- 🌐 [WordPress Today Agency](https://www.wordpresstoday.agency/)
-- 💼 [GitHub Profile](https://github.com/stefanradu9)
-
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest improvements
 - Submit pull requests
 
-## ⚖️ License
-MIT License - free to use these solutions in both personal and commercial projects.
-
----
-
-If you find these resources helpful, don't forget to ⭐ star the repository!
+## License
+MIT License - free to use in personal and commercial projects.
