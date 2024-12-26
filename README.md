@@ -14,6 +14,15 @@ A collection of advanced WordPress development resources, focusing on Elementor 
    - Supports all Elementor element types
    - Keyboard shortcuts included
    - [Read Full Article](https://www.wordpresstoday.agency/2024/12/06/how-to-copy-paste-jetengines-dynamic-visibility-conditions-using-elementor-jetengine-and-a-simple-code-snippet/)
+2. [Responsive Tables](./jetengine/responsive-tables/)
+   - Provides CSS and JavaScript solutions to make JetEngine's dynamic tables responsive on mobile devices.
+   - [Read Full Article](https://www.wordpresstoday.agency/2024/11/12/how-to-make-jetengines-dynamic-table-responsive-for-mobile-devices/)
+
+### JetFormBuilder
+1. [FOUC Fix](./jetformbuilder/fouc-fix/)
+   - Fixes the Flash of Unstyled Content (FOUC) issue in JetFormBuilder forms.
+   - [Read Full Article](https://www.wordpresstoday.agency/2023/12/11/how-to-fix-fouc-flash-of-unstyled-content-in-jetformbuilders-forms/)
+
 
 ## 📁 Repository Structure
 ```
