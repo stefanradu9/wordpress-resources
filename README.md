@@ -9,12 +9,12 @@ A collection of advanced WordPress development resources, focusing on Elementor 
    - [Read Full Article](https://www.wordpresstoday.agency/2024/12/22/add-custom-css-indicator-to-elementor-navigator-elements/)
 
 ### JetEngine Solutions
-1. [JetEngine Dynamic Visibility Copy/Paste](./jetengine/dynamic-visibility-copy-paste/)
+1. [JetEngine Dynamic Visibility Copy/Paste](./jetegine/dynamic-visibility-copy-paste/)
    - Copy/paste visibility conditions between elements
    - Supports all Elementor element types
    - Keyboard shortcuts included
    - [Read Full Article](https://www.wordpresstoday.agency/2024/12/06/how-to-copy-paste-jetengines-dynamic-visibility-conditions-using-elementor-jetengine-and-a-simple-code-snippet/)
-2. [Responsive Tables](./jetengine/responsive-tables/)
+2. [Responsive Tables](./jetegine/responsive-tables/)
    - Provides CSS and JavaScript solutions to make JetEngine's dynamic tables responsive on mobile devices.
    - [Read Full Article](https://www.wordpresstoday.agency/2024/11/12/how-to-make-jetengines-dynamic-table-responsive-for-mobile-devices/)
 
@@ -22,6 +22,7 @@ A collection of advanced WordPress development resources, focusing on Elementor 
 1. [FOUC Fix](./jetformbuilder/fouc-fix/)
    - Fixes the Flash of Unstyled Content (FOUC) issue in JetFormBuilder forms.
    - [Read Full Article](https://www.wordpresstoday.agency/2023/12/11/how-to-fix-fouc-flash-of-unstyled-content-in-jetformbuilders-forms/)
+
 
 ## 📁 Repository Structure
 ```
