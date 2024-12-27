@@ -23,7 +23,6 @@ A collection of advanced WordPress development resources, focusing on Elementor 
    - Fixes the Flash of Unstyled Content (FOUC) issue in JetFormBuilder forms.
    - [Read Full Article](https://www.wordpresstoday.agency/2023/12/11/how-to-fix-fouc-flash-of-unstyled-content-in-jetformbuilders-forms/)
 
-
 ## 📁 Repository Structure
 ```
 /
